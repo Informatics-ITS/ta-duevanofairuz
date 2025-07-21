@@ -1,10 +1,11 @@
-# 🏁 Tugas Akhir (TA) - Final Project
+# 🏁 Tugas Akhir (TA) - Undergraduate Thesis
 
-**Nama Mahasiswa**: Duevano Fairuz Pandya <br>
-**NRP**: 5025211052 <br>
-**Judul TA**: Pembangkitan Deskripsi Gambar _Fashion_ Berbahasa Inggris dengan Metode _Bootstrapping Language-Image Pre-training_  <br>
-**Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D. <br>
-<!-- **Dosen Ko-pembimbing**: [Nama Dosen] -->
+|     |  |
+| -------- | ------- |
+| **Nama Mahasiswa**  | Duevano Fairuz Pandya    |
+| **NRP** | 5025211052     |
+| **Judul TA**    | Pembangkitan Deskripsi Gambar _Fashion_ Berbahasa Inggris dengan Metode _Bootstrapping Language-Image Pre-training_    |
+| **Dosen Pembimbing**    | Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D.    |
 
 ---
 
