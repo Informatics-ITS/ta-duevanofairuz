@@ -3,6 +3,7 @@
 - Data ini memiliki sumber yang berbeda dengan dataset pelatihan model BLIP-2 
 - Dataset ini dibuat untuk tujuan menilai caption fashion yang multi-objek
 - Dataset ini merupakan sampel (Fashion12K German) dari Fashion200K yang diperoleh dari [huggingface](https://huggingface.co/datasets/jinaai/fashion-captions-de)
+- Test-set yang digunakan untuk evaluasi dapat diakses di [folder ini](https://drive.google.com/drive/folders/1f97tkikpt3w9y6bbjEJwohYlnvPblyq2?usp=sharing)
 
 Sitasi:
 ```
