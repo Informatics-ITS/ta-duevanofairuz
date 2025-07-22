@@ -1,0 +1,10 @@
+transformers==4.50.3
+accelerate
+bitsandbytes
+peft
+rouge_score 
+evaluate
+datasets
+openai
+gradio
+'git+https://github.com/facebookresearch/detectron2.git'
