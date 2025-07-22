@@ -10,23 +10,40 @@
 ---
 
 ## 📺 Demo Aplikasi  
-Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
+Embed video demo di bawah ini:  
 
 [![Demo Aplikasi](https://i.ytimg.com/vi/HQdK63d_Zwo/maxresdefault.jpg)](https://www.youtube.com/watch?v=HQdK63d_Zwo)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+**Core dependencies**
+- torch==2.6.0
+- transformers==4.50.3
+- accelerate>=1.52.0
+- datasets>=2.14.4
+- peft>=0.14.0
+- evaluate>=0.4.5
+- rouge_score>=0.1.2
+- openai>=1.70.0
+- gradio>=5.31.0
+
+**Detectron2**
+- git+https://github.com/facebookresearch/detectron2.git
+
+**CUDA/cuDNN compatibility (informational only)**
+- CUDA Version: 12.5
+- cuDNN Version: 9.2.1 (header-based)
+
+**TensorFlow (optional, if needed)**
+- tensorflow==2.18.0
+
+**Runtime environment**
+- python>=3.10
 
 ### Langkah-langkah  
 1. **Clone Repository**  
@@ -53,9 +70,9 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ## 📚 Dokumentasi Tambahan
 
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
+- [Detectron2](https://github.com/facebookresearch/detectron2)
+- [BLIP-2](https://huggingface.co/docs/transformers/model_doc/blip-2)
+- [OpenAI](https://platform.openai.com/)
 
 ---
 
@@ -72,5 +89,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: duevanofairuz@gmail.com
+- Pembimbing Utama: shintami@its.ac.id
