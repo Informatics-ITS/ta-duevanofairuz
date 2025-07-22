@@ -1,0 +1,5 @@
+# Model Segmentasi Objek Individu (Mask R-CNN Detectron2)
+- Model Mask R-CNN Detectron2 yang telah di-finetune pada Tugas Akhir ini dapat diakses di [folder google drive ini](https://drive.google.com/drive/folders/1TWxDpjv9eaajt2Os8c7WTtkxu4rfthBA?usp=sharing)
+- Lakukan pemuatan model seperti yang ada pada section di [notebook google colab ini](https://colab.research.google.com/drive/18GINIcIU7IrKrBBspA3nr-oM5CktYphh#scrollTo=dAJvDzUrhn8Z)
+- Konfigurasi model dapat dilihat di [spreadsheet ini](https://docs.google.com/spreadsheets/d/1HnO8A-e76r-Zf_y3RvkR_2F3LVb_sn94w783ahsMt10/edit?usp=sharing)
+- Tahap pelatihan model ada pada section di [notebook google colab ini](https://colab.research.google.com/drive/1GQoPYtM-0r0Y6gBKzBUOruxaz9OOzqIQ#scrollTo=okQbhIYIh_CL)
